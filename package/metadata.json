@@ -1,0 +1,22 @@
+  GNU nano 9.2                                      metadata.json                                                   
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Github": "https://github.com/tasan08",
+                "Name": "tasan"
+            }
+        ],
+        "Category": "Environment and Weather",
+        "Description": "A weather widget localized for the Taiwanese Weather Bureau and rain information needs",
+        "Icon": "TWeather",
+        "Id": "org.kde.helloworld",
+        "Name": "TWeather",
+        "Version": "1",
+        "Website": "https://github.com/tasan08/tweather",
+        "BugReportUrl": "https://github.com/tasan08/tweather"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
+
